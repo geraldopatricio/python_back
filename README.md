@@ -15,10 +15,7 @@ CREATE TABLE `tb_produto` (
 	`codigo` INT(11) NOT NULL,
 	`produto` VARCHAR(100) NOT NULL COLLATE 'utf8mb4_general_ci',
 	PRIMARY KEY (`id`) USING BTREE
-)
-COLLATE='utf8mb4_general_ci'
-ENGINE=InnoDB
-;
+);
     
 ```
 
