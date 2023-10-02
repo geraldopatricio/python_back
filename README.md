@@ -22,11 +22,13 @@ ENGINE=InnoDB
     
 ```
 
-## Bibliotecas necessárias
 ## comandos iniciais para instalação do projeto
+```bash
 pip install mysql-connector-python
 pip install flask
 pip install python-dotenv
+
+```
 
 ## gerando requirements
 pip freeze > requirements.txt
