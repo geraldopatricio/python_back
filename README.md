@@ -8,7 +8,7 @@ Backend em python usando mysql, flask e .env exemplificando o uso com postman
 
 ```
 
-## Gerando aa tabela
+## Gerando a tabela
 ```bash
 CREATE TABLE `tb_produto` (
 	`id` INT(11) NOT NULL AUTO_INCREMENT,
@@ -19,7 +19,7 @@ CREATE TABLE `tb_produto` (
     
 ```
 
-## comandos iniciais para instalação do projeto
+## Bibliotecas necessárias:
 ```bash
 pip install mysql-connector-python
 pip install flask
