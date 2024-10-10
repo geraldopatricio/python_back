@@ -2,7 +2,7 @@
   <img src="assets/images/logo.jpg" width="300" alt="Python" /></a>
 </p>
 
-<iframe src="https://github.com/sponsors/geraldopatricio/button" title="Sponsor geraldopatricio" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+<iframe src="https://github.com/sponsors/geraldopatricio/card" title="Sponsor geraldopatricio" height="225" width="600" style="border: 0;"></iframe>
 
 ## Projeto CRUD Python - Backend
 ```bash
