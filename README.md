@@ -2,6 +2,8 @@
   <img src="assets/images/logo.jpg" width="300" alt="Python" /></a>
 </p>
 
+<iframe src="https://github.com/sponsors/geraldopatricio/button" title="Sponsor geraldopatricio" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 ## Projeto CRUD Python - Backend
 ```bash
 Backend em python usando mysql, flask e .env exemplificando o uso com postman
